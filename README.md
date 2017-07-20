@@ -22,7 +22,7 @@
 * [x] Le jeu devra être disponible sur un github-pages :rocket:
 * [x] les ressources seront disponible dans le dossier **images**
 * ressources :
-  - [font LATO]()
+  - [font LATO](https://fonts.google.com/specimen/Lato)
   - [ framework CSS](http://code.ionicframework.com)
 ---
 
